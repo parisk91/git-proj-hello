@@ -6,4 +6,8 @@ public class Main {
         System.out.println("Hello Git CF5 OPA1");
     }
 
+    public static void sayHello() {
+        System.out.println("Hello World");
+    }
+
 }
